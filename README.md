@@ -13,3 +13,7 @@ olmayanları pcb ye böyle ekle
 <img width="1215" height="783" alt="image" src="https://github.com/user-attachments/assets/a4c10cea-4165-4114-81a5-15a76e75c4ee" />
 <img width="867" height="535" alt="image" src="https://github.com/user-attachments/assets/6de088e2-9301-4566-bc74-5ff76db30742" />
 <img width="1207" height="675" alt="image" src="https://github.com/user-attachments/assets/9b67deb8-4a38-44bc-a3fb-ee24f84329c7" />
+<img width="1082" height="727" alt="image" src="https://github.com/user-attachments/assets/4eb29847-4fc7-4916-ab5a-c0f81327beb5" />
+<img width="1089" height="792" alt="image" src="https://github.com/user-attachments/assets/3cba78e7-63df-4fc1-8edf-568ac0d82bc3" />
+<img width="1014" height="801" alt="image" src="https://github.com/user-attachments/assets/9638c8eb-e616-4956-890d-a68b3a0ff1f9" />
+<img width="951" height="824" alt="image" src="https://github.com/user-attachments/assets/12d800d8-aa4a-4357-a79e-ae9c135a379e" />
